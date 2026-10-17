@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Testing/">
+    <Project Path="LibraryMS.BLL.Testing/LibraryMS.BLL.Testing.csproj" />
+    <Project Path="LibraryMS.DAL.Testing/LibraryMS.DAL.Testing.csproj" Id="1fdb0af0-c1a3-4db7-8d60-c3799f502f57" />
+  </Folder>
+  <Project Path="LibraryMS.BLL/LibraryMS.BLL.csproj" />
+  <Project Path="LibraryMS.DAL/LibraryMS.DAL.csproj" />
+  <Project Path="LibraryMS.PL/LibraryMS.PL.csproj" />
+</Solution>
